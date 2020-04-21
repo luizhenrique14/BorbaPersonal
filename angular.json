@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "BorbaPersonal"
+  "defaultProject": "BorbaPersonal",
+  "cli": {
+    "analytics": false
+  }
 }
